@@ -3,7 +3,7 @@
 <img align="right",alt="coding",src="https://tse3.mm.bing.net/th?id=OIP.DIG24D-sPXEpLoHv7Lo2TQHaEK&pid=Api&P=0&h=180">
 
 
-- 🔭 I’m currently working on **Bookie.com**
+- 🔭 I’m currently working on **IMD**
 
 - 🌱 I’m currently learning **Machine Learning, DSA using C++**
 
