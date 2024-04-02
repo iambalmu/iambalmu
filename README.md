@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, DSA using C++**
 
-- 📫 How to reach me **balamurali.219310234@muj.manipal.edu**
+- 📫 How to reach me **balmu2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
